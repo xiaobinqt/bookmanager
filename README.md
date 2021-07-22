@@ -1,2 +1,2 @@
 # django-dev
-django-dev
+bookmanager
